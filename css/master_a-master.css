@@ -1,0 +1,212 @@
+#u203.PamphletThumbSelected,#u208.PamphletThumbSelected,#u207.PamphletThumbSelected,#u205.PamphletThumbSelected,#u204.PamphletThumbSelected,#u206.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#u141
+{
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	background: transparent url("/images/home_bcg.jpg") no-repeat left top;
+}
+
+#u2002
+{
+	border-style: none;
+	border-color: transparent;
+	position: fixed;
+	background: transparent url("/images/topframe_1.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u594
+{
+	border-style: none;
+	border-color: transparent;
+	position: fixed;
+	background: transparent url("/images/leftframe.png") repeat-y left top;
+}
+
+#u610,#u1579,#u557,#u548,#u550
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u554
+{
+	border-style: none;
+	border-color: transparent;
+	position: fixed;
+	background: transparent url("/images/rightframe.png") repeat-y left top;
+}
+
+#pamphletu188
+{
+	position: fixed;
+}
+
+#u189
+{
+	position: absolute;
+}
+
+#u194
+{
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 0px 15px 15px 15px ;
+	-webkit-border-radius: 0px 15px 15px 15px ;
+	-khtml-border-radius: 0px 15px 15px 15px ;
+	border-radius: 0px 15px 15px 15px ;
+	position: fixed;
+	background: transparent url("/images/game_hover-u194-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u195
+{
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 0px 15px 15px 15px ;
+	-webkit-border-radius: 0px 15px 15px 15px ;
+	-khtml-border-radius: 0px 15px 15px 15px ;
+	border-radius: 0px 15px 15px 15px ;
+	position: fixed;
+	background: transparent url("/images/learning_hover-u195-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u190
+{
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 0px 15px 15px 15px ;
+	-webkit-border-radius: 0px 15px 15px 15px ;
+	-khtml-border-radius: 0px 15px 15px 15px ;
+	border-radius: 0px 15px 15px 15px ;
+	position: fixed;
+	background: transparent url("/images/signup_hover-u190-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u192
+{
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 0px 15px 15px 15px ;
+	-webkit-border-radius: 0px 15px 15px 15px ;
+	-khtml-border-radius: 0px 15px 15px 15px ;
+	border-radius: 0px 15px 15px 15px ;
+	position: fixed;
+	background: transparent url("/images/promo_hover-u192-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u193
+{
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 0px 15px 15px 15px ;
+	-webkit-border-radius: 0px 15px 15px 15px ;
+	-khtml-border-radius: 0px 15px 15px 15px ;
+	border-radius: 0px 15px 15px 15px ;
+	position: fixed;
+	background: transparent url("/images/press_hover-u193-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u191
+{
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 0px 15px 15px 15px ;
+	-webkit-border-radius: 0px 15px 15px 15px ;
+	-khtml-border-radius: 0px 15px 15px 15px ;
+	border-radius: 0px 15px 15px 15px ;
+	position: fixed;
+	background: transparent url("/images/art_hover-u191-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u194:hover,#u195:hover,#u190:hover,#u192:hover,#u193:hover,#u191:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-color: transparent;
+	background-size: contain;
+}
+
+#u203:active,#u207:active,#u203:hover
+{
+	background-color: transparent;
+}
+
+#u207,#u204,#u208,#u205,#u203,#u206
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u2003,#u1169,#u1696,#u186
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u186_clip
+{
+	overflow: hidden;
+}
+
+#U2024_animation,#U765_animation,#U755_animation,#U760_animation
+{
+	border: none;
+}
+
+#u763,#u753,#u153,#u758,#u165,#u171
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u136-4
+{
+	background-color: transparent;
+	line-height: 13px;
+	position: relative;
+}
+
+#u611
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("/images/bottomframe1440.png") no-repeat left top;
+	background-size: contain;
+}
+
+#home,#u202,#game,#press,#art,#promo,#signup,#learning
+{
+	position: relative;
+}
+

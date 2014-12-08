@@ -1,0 +1,205 @@
+#u1943.PamphletThumbSelected,#u1946.PamphletThumbSelected,#u1947.PamphletThumbSelected,#u1944.PamphletThumbSelected,#u1942.PamphletThumbSelected,#u1945.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+
+#u1861
+{
+	border-style: none;
+	border-color: transparent;
+	position: fixed;
+	background: transparent url("/images/topframe_1.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u2008
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#U2028_animation
+{
+	border: none;
+}
+
+#u1859
+{
+	border-style: none;
+	border-color: transparent;
+	position: fixed;
+	background: transparent url("/images/leftframe.png") repeat-y left top;
+}
+
+#pamphletu1931
+{
+	position: fixed;
+}
+
+#u1932
+{
+	position: absolute;
+}
+
+#u1936
+{
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 0px 15px 15px 15px ;
+	-webkit-border-radius: 0px 15px 15px 15px ;
+	-khtml-border-radius: 0px 15px 15px 15px ;
+	border-radius: 0px 15px 15px 15px ;
+	position: fixed;
+	background: transparent url("/images/game_hover-u194-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1933
+{
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 0px 15px 15px 15px ;
+	-webkit-border-radius: 0px 15px 15px 15px ;
+	-khtml-border-radius: 0px 15px 15px 15px ;
+	border-radius: 0px 15px 15px 15px ;
+	position: fixed;
+	background: transparent url("/images/learning_hover-u195-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1938
+{
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 0px 15px 15px 15px ;
+	-webkit-border-radius: 0px 15px 15px 15px ;
+	-khtml-border-radius: 0px 15px 15px 15px ;
+	border-radius: 0px 15px 15px 15px ;
+	position: fixed;
+	background: transparent url("/images/signup_hover-u190-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1934
+{
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 0px 15px 15px 15px ;
+	-webkit-border-radius: 0px 15px 15px 15px ;
+	-khtml-border-radius: 0px 15px 15px 15px ;
+	border-radius: 0px 15px 15px 15px ;
+	position: fixed;
+	background: transparent url("/images/promo_hover-u192-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1937
+{
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 0px 15px 15px 15px ;
+	-webkit-border-radius: 0px 15px 15px 15px ;
+	-khtml-border-radius: 0px 15px 15px 15px ;
+	border-radius: 0px 15px 15px 15px ;
+	position: fixed;
+	background: transparent url("/images/press_hover-u193-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1935
+{
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 0px 15px 15px 15px ;
+	-webkit-border-radius: 0px 15px 15px 15px ;
+	-khtml-border-radius: 0px 15px 15px 15px ;
+	border-radius: 0px 15px 15px 15px ;
+	position: fixed;
+	background: transparent url("/images/art_hover-u191-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u1936:hover,#u1933:hover,#u1938:hover,#u1934:hover,#u1937:hover,#u1935:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-color: transparent;
+	background-size: contain;
+}
+
+#u1941
+{
+	position: relative;
+}
+
+#u1945:active,#u1947:active,#u1945:hover
+{
+	background-color: transparent;
+}
+
+#u1947,#u1944,#u1942,#u1943,#u1945,#u1946
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u1929_clip
+{
+	overflow: hidden;
+}
+
+#u1823,#u1929,#u1795
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u1858,#u1994,#u1802,#u1797,#u1799
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u1801
+{
+	border-style: none;
+	border-color: transparent;
+	position: fixed;
+	background: transparent url("/images/rightframe.png") repeat-y left top;
+}
+
+#u1857-4
+{
+	background-color: transparent;
+	line-height: 13px;
+	text-align: center;
+	position: relative;
+}
+
+#u2020
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("/images/bottomframe1440.png") no-repeat left top;
+	background-size: contain;
+}
+

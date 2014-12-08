@@ -1,0 +1,177 @@
+<manifest alg="2" build="10" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="BC" resolutions="1x" timestamp="1417813840870">
+  <folder name="assets">
+    <folder name="arrowscroll">
+      <folder name="edge_includes">
+        <file name="edge.5.0.1.min.js" crc="3758894637" mt="1417813636000"/>
+      </folder>
+      <folder name="images">
+        <file name="arrow1_bold.png" crc="308483187" mt="1417813636000"/>
+        <file name="arrow1_light.png" crc="114603144" mt="1417813636000"/>
+        <file name="arrow2_bold.png" crc="308483187" mt="1417813636000"/>
+        <file name="arrow2_light.png" crc="114603144" mt="1417813636000"/>
+      </folder>
+      <file name="transparent.png" crc="224775234" mt="1417813636000"/>
+      <file name="arrowscroll_edge.js" crc="4197325885" mt="1417813636000"/>
+      <file name="arrowscroll.html" crc="3834599662" mt="1417813636000"/>
+    </folder>
+    <folder name="topguys">
+      <folder name="edge_includes">
+        <file name="edge.5.0.1.min.js" crc="3758894637" mt="1417805033000"/>
+      </folder>
+      <folder name="images">
+        <file name="ZOOM_ANIMATION.png" crc="408794249" mt="1417805033000"/>
+        <file name="zoombini_1.png" crc="534088185" mt="1417805033000"/>
+        <file name="zoombini_2.png" crc="3872323160" mt="1417805033000"/>
+        <file name="zoombini_3.png" crc="38482325" mt="1417805033000"/>
+      </folder>
+      <file name="transparent.png" crc="365968282" mt="1417805033000"/>
+      <file name="topguys_edge.js" crc="4046685347" mt="1417805033000"/>
+      <file name="topguys.html" crc="477733940" mt="1417805033000"/>
+    </folder>
+    <folder name="videogame">
+      <folder name="media">
+        <file name="videogame.mp4" crc="287701866" mt="1417541523000"/>
+        <file name="videogame.ogv" crc="4055089256" mt="1417541523000"/>
+        <file name="videogame.webm" crc="357243288" mt="1417541523000"/>
+      </folder>
+      <folder name="edge_includes">
+        <file name="edge.5.0.1.min.js" crc="3758894637" mt="1417541523000"/>
+      </folder>
+      <folder name="images">
+        <file name="Poster.png" crc="4201790467" mt="1417541523000"/>
+      </folder>
+      <file name="videogame_edge.js" crc="3868866081" mt="1417541523000"/>
+      <file name="videogame.html" crc="295373883" mt="1417541523000"/>
+    </folder>
+    <folder name="videopromo">
+      <folder name="media">
+        <file name="videopromo.mp4" crc="3991280753" mt="1417540738000"/>
+      </folder>
+      <folder name="edge_includes">
+        <file name="edge.5.0.1.min.js" crc="3758894637" mt="1417540738000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="206597083" mt="1417540738000"/>
+        <file name="Poster.png" crc="206597083" mt="1417540738000"/>
+      </folder>
+      <file name="videopromo_edge.js" crc="4135818996" mt="1417540738000"/>
+      <file name="videopromo.html" crc="208826758" mt="1417540738000"/>
+    </folder>
+    <folder name="videopress">
+      <folder name="media">
+        <file name="videopress.mp4" crc="381897742" mt="1417540645000"/>
+      </folder>
+      <folder name="edge_includes">
+        <file name="edge.5.0.1.min.js" crc="3758894637" mt="1417540645000"/>
+      </folder>
+      <folder name="images">
+        <file name="Poster.png" crc="312327187" mt="1417540645000"/>
+      </folder>
+      <file name="videopress_edge.js" crc="4091299811" mt="1417540645000"/>
+      <file name="videopress.html" crc="503488123" mt="1417540645000"/>
+    </folder>
+  </folder>
+  <folder name="_system">
+    <folder name="contentholders">
+      <file name="_u1169.html" crc="334791121"/>
+      <file name="_u557.html" crc="220648062"/>
+      <file name="_u548.html" crc="4123603322"/>
+      <file name="_u550.html" crc="405877779"/>
+      <file name="_u186.html" crc="10736192"/>
+      <file name="_u153.html" crc="332911202"/>
+      <file name="_u165.html" crc="4043106485"/>
+      <file name="_u171.html" crc="400421279"/>
+      <file name="_u136.html" crc="4246659486"/>
+      <file name="_u1929.html" crc="509198904"/>
+      <file name="_u1795.html" crc="4283620062"/>
+      <file name="_u1802.html" crc="459934330"/>
+      <file name="_u1797.html" crc="4097765301"/>
+      <file name="_u1799.html" crc="45987467"/>
+      <file name="_u1857.html" crc="405374129"/>
+    </folder>
+  </folder>
+  <folder name="templates">
+    <file name="main template.html" crc="4287207964"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="297027355"/>
+    <file name="index.css" crc="504134158" ref="index"/>
+    <file name="master_b-master.css" crc="4269299404" ref="privacypolicy"/>
+    <file name="master_a-master.css" crc="4172283439" ref="index"/>
+    <file name="privacypolicy.css" crc="3919932751" ref="privacypolicy"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:privacypolicy"/>
+    <file name="museutils.js" crc="411547564" ref="index:privacypolicy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index:privacypolicy"/>
+    <file name="webpro.js" crc="474087315" ref="index:privacypolicy"/>
+    <file name="musewpslideshow.js" crc="274584885" ref="index:privacypolicy"/>
+    <file name="jquery.museoverlay.js" crc="170414611" ref="index:privacypolicy"/>
+    <file name="touchswipe.js" crc="100683906" ref="index:privacypolicy"/>
+    <file name="pie.js" crc="3827607177" ref="index:privacypolicy"/>
+    <file name="jquery.scrolleffects.js" crc="117544926" ref="index"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:privacypolicy"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="home_bcg.jpg" crc="4153304248" ref="index"/>
+    <file name="art_11.jpg" crc="3847500996" ref="index"/>
+    <file name="art_12.jpg" crc="528461306" ref="index"/>
+    <file name="art_13.jpg" crc="253502594" ref="index"/>
+    <file name="art_21.jpg" crc="3838236980" ref="index"/>
+    <file name="art_22.jpg" crc="501531413" ref="index"/>
+    <file name="art_31.jpg" crc="123752690" ref="index"/>
+    <file name="art_32.jpg" crc="525454409" ref="index"/>
+    <file name="art_11180x135.jpg" crc="386159420" ref="index"/>
+    <file name="art_12180x135.jpg" crc="3768491217" ref="index"/>
+    <file name="art_13180x135.jpg" crc="408586147" ref="index"/>
+    <file name="art_21180x135.jpg" crc="477986717" ref="index"/>
+    <file name="art_22180x135.jpg" crc="482414747" ref="index"/>
+    <file name="art_31180x135.jpg" crc="3791681640" ref="index"/>
+    <file name="art_32180x135.jpg" crc="480873135" ref="index"/>
+    <file name="next-prev-u1331.png" crc="182622123" ref="index"/>
+    <file name="next-prev-u1331-r.png" crc="3843615353" ref="index"/>
+    <file name="next-prev-u1337.png" crc="4152489223" ref="index"/>
+    <file name="next-prev-u1337-r.png" crc="3995764787" ref="index"/>
+    <file name="pizzamonsterhome.png" crc="4186216111" ref="index"/>
+    <file name="booblemonster.png" crc="4291436472" ref="index"/>
+    <file name="bannerhomepage2.png" crc="482099067" ref="index"/>
+    <file name="topframe_1.png" crc="188750517" ref="index:privacypolicy"/>
+    <file name="leftframe.png" crc="262611323" ref="index:privacypolicy"/>
+    <file name="social_bcg2.png" crc="178570109" ref="index:privacypolicy"/>
+    <file name="facebook.png" crc="255094238" ref="index:privacypolicy"/>
+    <file name="tube.png" crc="4189980032" ref="index:privacypolicy"/>
+    <file name="twitter.png" crc="337727898" ref="index:privacypolicy"/>
+    <file name="rightframe.png" crc="394407655" ref="index:privacypolicy"/>
+    <file name="zoombinis_logo_2014.png" crc="502068210" ref="index:privacypolicy"/>
+    <file name="game_hover-u194-fr.png" crc="4076594520" ref="index:privacypolicy"/>
+    <file name="learning_hover-u195-fr.png" crc="4235227626" ref="index:privacypolicy"/>
+    <file name="signup_hover-u190-fr.png" crc="72161985" ref="index:privacypolicy"/>
+    <file name="promo_hover-u192-fr.png" crc="3838245387" ref="index:privacypolicy"/>
+    <file name="press_hover-u193-fr.png" crc="345128691" ref="index:privacypolicy"/>
+    <file name="art_hover-u191-fr.png" crc="3863619551" ref="index:privacypolicy"/>
+    <file name="art_normal.png" crc="4102770928" ref="index:privacypolicy"/>
+    <file name="u334-grad.png" crc="122935889" ref="index"/>
+    <file name="art_bcg.jpg" crc="4153407309" ref="index"/>
+    <file name="art_33-u1647-fr.jpg" crc="336918341" ref="index"/>
+    <file name="art_23-u1670-fr.jpg" crc="70989978" ref="index"/>
+    <file name="paper.png" crc="4134119270" ref="index"/>
+    <file name="support_us.png" crc="399535832" ref="index"/>
+    <file name="email_bcg.jpg" crc="80543525" ref="index"/>
+    <file name="u464-17.png" crc="4089352786" ref="index"/>
+    <file name="u464-17-r.png" crc="3909933363" ref="index"/>
+    <file name="u464-17-m.png" crc="3909933363" ref="index"/>
+    <file name="u464-17-fs.png" crc="269142907" ref="index"/>
+    <file name="checkboxunchecked.jpg" crc="405823397" ref="index"/>
+    <file name="checkboxuncheckedrollover.jpg" crc="519912240" ref="index"/>
+    <file name="checkboxuncheckedmousedown.jpg" crc="122200449" ref="index"/>
+    <file name="checkboxchecked.jpg" crc="4220967324" ref="index"/>
+    <file name="checkboxcheckedrollover.jpg" crc="523498870" ref="index"/>
+    <file name="checkboxcheckedmousedown.jpg" crc="3923721351" ref="index"/>
+    <file name="learning_bcg.jpg" crc="152752576" ref="index"/>
+    <file name="bottomframe1440.png" crc="3968663278" ref="index:privacypolicy"/>
+  </folder>
+  <file name="index.html" crc="451263577" mt="1417813840370" redirect="true"/>
+  <file name="privacypolicy.html" crc="3810637611" mt="1417807355877" redirect="true"/>
+</manifest>
